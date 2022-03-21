@@ -1,3 +1,4 @@
-loose\oose\fis\lab\student\manager\HelloApplication.class
 loose\oose\fis\lab\student\manager\controllers\LoginController.class
-loose\oose\fis\lab\student\manager\HelloController.class
+loose\oose\fis\lab\student\manager\controllers\ViewStudentsController.class
+loose\oose\fis\lab\student\manager\Main.class
+loose\oose\fis\lab\student\manager\model\Student.class
